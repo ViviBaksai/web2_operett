@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+}
+
+.content-container {
+  margin: 40px;
+}
+
+#carouselExampleIndicators {
+  width: 55%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.carousel-caption {
+  background-color: black;
+}
+

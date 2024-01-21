@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+}
+
+.content-container {
+  margin: 40px;
+}
+
+.comment {
+  font-size: 0.75rem;
+}
